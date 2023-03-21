@@ -18,9 +18,7 @@ public class resetPosition : MonoBehaviour
     {
         a = b1.transform.position;
         b = b2.transform.position;
-        print(a);
-        print(b);
-        
+
     }
 
     // Update is called once per frame
@@ -28,7 +26,6 @@ public class resetPosition : MonoBehaviour
     {
         if (Input.GetKeyDown(_keyCode))
         {
-            print("pressed");
           b1.transform.position = a;
           b2.transform.position = b;
             

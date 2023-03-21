@@ -373,12 +373,16 @@
 "Assets/DOTween_1_2_705/DOTween/Modules/DOTweenModuleUnityVersion.cs"
 "Assets/DOTween_1_2_705/DOTween/Modules/DOTweenModuleUtils.cs"
 "Assets/Scenes/NewBehaviourScript.cs"
+"Assets/Script/BallScript.cs"
+"Assets/Script/CameraController.cs"
 "Assets/Script/cameraMovement.cs"
 "Assets/Script/Gravity.cs"
+"Assets/Script/PlaneClick.cs"
 "Assets/Script/PlayerController.cs"
 "Assets/Script/pointerHandler.cs"
 "Assets/Script/resetPosition.cs"
 "Assets/Script/Rotate.cs"
+"Assets/Script/test.cs"
 -langversion:9.0
 
 /deterministic
